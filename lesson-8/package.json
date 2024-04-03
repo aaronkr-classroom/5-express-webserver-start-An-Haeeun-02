@@ -5,6 +5,7 @@
   "main": "main.js",
   "scripts": {
     "test": "jest"
+    
   },
   "author": "Aaron Snowberger",
   "license": "ISC",
